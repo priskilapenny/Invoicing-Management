@@ -18,13 +18,13 @@ The work covers database schema design, relationship implementation, SQL query d
 
 The database design includes the ERD, table relationships, key constraints, and data dictionary.
 
-<!-- See [Database Design](docs/database-design.md). -->
+See [Database Design](ERD.png).
 
 ## SQL Development
 
 Selected SQL queries demonstrate data retrieval, multi-table joins, data manipulation, and other operations required by the application.
 
-<!-- See the `database/queries/` directory. -->
+See the `database/queries/` directory.
 
 ## API Development
 
@@ -32,7 +32,7 @@ REST API endpoints were developed to expose database functionality and provide a
 
 The API documentation includes endpoint descriptions, request and response examples, and error-handling details.
 
-<!-- See the `api/` directory. -->
+See the `api/` directory.
 
 ## Technology Stack
 
