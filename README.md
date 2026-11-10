@@ -33,7 +33,7 @@ _Note: The ERD and database documentation presented in this case study cover onl
 
 Selected SQL queries demonstrate data retrieval, multi-table joins, data manipulation, and other operations required by the application.
 
-See the `queries-sample` directory.
+See the `sample-queries/` directory.
 
 ## API Development
 
@@ -41,7 +41,7 @@ REST API endpoints were developed to expose database functionality and provide a
 
 The API documentation includes endpoint descriptions, request and response examples, and error-handling details.
 
-See the `api/` directory.
+See the sample [API documentation](sample-API.md).
 
 ## Technology Stack
 
