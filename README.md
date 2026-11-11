@@ -1,7 +1,7 @@
 # Invoicing Management
 ## Project Overview
 
-This project documents the design and implementation of a relational database and REST API developed to support an invoicing system application backend for Accommodation and Property Rental.
+This project documents the design and implementation of a relational database and REST API developed to support an invoicing system application backend for Accommodation and Property Management.
 
 The work covers database schema design, relationship implementation, SQL query development, and REST API development. The API endpoints were designed to provide data access and functionality for integration by other members of the development team.
 
