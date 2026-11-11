@@ -54,10 +54,6 @@ See the sample [API documentation](sample-API.md).
 - API Testing: Postman
 - Version Control: Git
 
-## My Contribution
-
-Responsible for database design and implementation, SQL query development, and REST API development. Prepared API endpoints for integration by other members of the development team.
-
-## Confidentiality
+## Note
 
 This repository contains only information approved for public disclosure. Confidential business information, proprietary source code, credentials, and sensitive data are excluded.
