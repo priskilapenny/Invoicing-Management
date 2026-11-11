@@ -1,4 +1,4 @@
-# Invoicing-Management-System
+# Invoicing Management
 ## Project Overview
 
 This project documents the design and implementation of a relational database and REST API developed to support an invoicing system application backend for Accommodation and Property Rental.
@@ -17,6 +17,7 @@ My responsibilities included:
 - Developing Entity Relationship Diagrams (ERD).
 - Defining table relationships and database constraints.
 - Developing SQL queries involving multiple related tables.
+- Developing MySQL stored procedures to handle database operations and support API workflows.
 - Building REST API endpoints using Python Django.
 - Preparing API responses to support backend application integration.
 
@@ -31,7 +32,7 @@ _Note: The ERD and database documentation presented in this case study cover onl
 
 ## SQL Development
 
-Selected SQL queries demonstrate data retrieval, multi-table joins, data manipulation, and other operations required by the application.
+Selected SQL queries and stored procedures demonstrate data retrieval, multi-table joins, data manipulation, and other operations required by the application.
 
 See the `sample-queries/` directory.
 
